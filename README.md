@@ -1,1 +1,1 @@
-"# Ross-Thanscheidt.github.io" 
+# Ross-Thanscheidt.github.io
